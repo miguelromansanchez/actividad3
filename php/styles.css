@@ -1,0 +1,10 @@
+.container align-middle{
+    position: relative;
+
+}
+.welcome{
+    font-family: 'Jura';
+    position: relative;
+    color: rgba(0, 0, 255, 0.878);
+    margin: 50px auto;
+}
